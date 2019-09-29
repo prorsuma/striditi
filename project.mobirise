@@ -695,7 +695,7 @@
           "currency2": "from",
           "currency3": "from",
           "currency4": "from",
-          "price1": "10&nbsp;<span style=\"font-weight: normal;\">€</span>",
+          "price1": "<span style=\"font-weight: normal;\">10</span>&nbsp;<span style=\"font-weight: normal;\">€</span>",
           "price2": "<span style=\"font-weight: normal;\">50&nbsp;€&nbsp;</span>",
           "price3": "<span style=\"font-weight: normal;\">70</span>&nbsp;<span style=\"font-weight: normal;\">€</span>",
           "price4": "<span style=\"font-weight: normal;\">110&nbsp;€</span>",
