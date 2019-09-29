@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "uniqCompNum": 18,
+    "uniqCompNum": 21,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/likelikelikeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-128x134.png",
@@ -229,7 +229,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "MONITOR EVERYBODY",
+          "title1": "MONITORING SOLUTION",
           "subtitle1": "Monitor working hours of your emplees<br>Wath how many days there wore off<br>See exacly when your products will go out of date<br>How mutch rooms you had reserved this year and year before<br>See the analitycts and create a plan<br><br>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "MORE CLIENTS",
@@ -583,74 +583,29 @@
         {
           "_params": {
             "showTitle": true,
-            "showContacts": true,
-            "showSubtitle": true,
             "showText": true,
-            "showIcons": true,
-            "showForm": true,
-            "inverse": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extForm1_bg.jpg",
+            "inverse": false,
+            "showArrow": true,
+            "showFormTitle": true,
+            "countdown": "2019/11/02",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader13-bg.jpg",
             "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.1,
-            "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-danger\">CHECK</a>"
+            "overlayOpacity": "0.6"
           },
-          "title": "IT IS TIME TO",
-          "title1": "Order",
-          "title2": "Ask question",
-          "subTitle1": "Send a reques",
-          "subTitle2": "Contact us and we will answer",
-          "text1": "",
-          "text2": "",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND REQUEST</a>",
-          "media": {
-            "image": {
-              "active": true,
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/iphone-1000x640.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "size": 0,
-              "class": "mbr-iconfont mbr-iconfont-header2 ",
-              "color": "@primaryColor"
-            }
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "thumbs-up",
-              "family": "icon54-v4",
-              "active": true,
-              "size": 0,
-              "color": "#666666"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "attention",
-              "family": "icon54-v2",
-              "active": true,
-              "size": 0,
-              "color": "#666666"
-            }
-          },
+          "title": "SPECIAL OFFER",
+          "title2": "SEND REQUEST",
+          "text": "OUR TEAM IS HAPPY TO ANOUNCE THAT - WE ARE PROVIDING INDIVIDUAL SYSTEM DESIGN JUST FOR YOU!<br>HURRY THE OFFER IS LIMITED FOR FIRST 200 CLIENTS",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
           "form": {
             "action": "rushhel@gmail.com",
             "alerts": {
@@ -673,7 +628,7 @@
                 "customTitle": "Phone*"
               },
               "message": {
-                "visible": true,
+                "visible": false,
                 "title": "Message",
                 "customTitle": "Message"
               }
@@ -683,8 +638,36 @@
           "_tags": [
             "Extension"
           ],
-          "_name": "extForm1",
-          "_anchor": "extForm1-c"
+          "_name": "extHeader13",
+          "_anchor": "extHeader13-j",
+          "_styles": {
+            "H4": {
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 STRIDITI",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-k"
         }
       ]
     }
