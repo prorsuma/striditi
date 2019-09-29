@@ -85,7 +85,7 @@ h6,
   background-color: #7e9b9f !important;
 }
 .bg-warning {
-  background-color: #f3c649 !important;
+  background-color: #2969b0 !important;
 }
 .bg-danger {
   background-color: #f28281 !important;
@@ -171,8 +171,8 @@ h6,
   border-color: #6a8153 !important;
 }
 .btn-warning {
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #2969b0;
+  border-color: #2969b0;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -181,14 +181,14 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #e1a90f;
-  border-color: #e1a90f;
+  background-color: #1b4472;
+  border-color: #1b4472;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #e1a90f !important;
-  border-color: #e1a90f !important;
+  background-color: #1b4472 !important;
+  border-color: #1b4472 !important;
 }
 .btn-danger {
   background-color: #f28281;
@@ -292,8 +292,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #c9970d;
-  color: #c9970d;
+  border-color: #16385d;
+  color: #16385d;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -301,14 +301,14 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #2969b0;
+  border-color: #2969b0;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #f3c649 !important;
-  border-color: #f3c649 !important;
+  background-color: #2969b0 !important;
+  border-color: #2969b0 !important;
 }
 .btn-danger-outline {
   background: none;
@@ -340,7 +340,7 @@ h6,
   color: #7e9b9f !important;
 }
 .text-warning {
-  color: #f3c649 !important;
+  color: #2969b0 !important;
 }
 .text-danger {
   color: #f28281 !important;
@@ -352,7 +352,7 @@ h6,
   background-color: #7e9b9f;
 }
 .alert-warning {
-  background-color: #f3c649;
+  background-color: #2969b0;
 }
 .alert-danger {
   background-color: #f28281;
@@ -399,7 +399,7 @@ h6,
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #79aae0;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -806,7 +806,7 @@ section.form .container {
   font-size: 48px;
 }
 #extProgressBar4-2 path[stroke] {
-  stroke: #d14841 !important;
+  stroke: #2969b0 !important;
 }
 #extFeatures8-8 .feature-title,
 #extFeatures8-8 .description {

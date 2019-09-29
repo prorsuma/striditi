@@ -10,7 +10,7 @@
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
+        "warningColor": "#2969b0",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Montserrat",
@@ -57,7 +57,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extProgressBar4-2\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures2-0\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extPricingTable1-g\">PLANS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extForm1-c\">REGISTER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#extFeatures2-0\">CHECK</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extProgressBar4-2\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures2-0\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extPricingTable1-g\">PLANS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extForm1-c\">REGISTER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"index.html#extFeatures2-0\">CHECK</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -149,7 +149,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "WE ARE OFFERING HIGHT QUALITY SOLUTIONS&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#extFeatures2-0\" data-toolbar=\"-mbrBtnMove\">CHEKCK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extForm1-c\" data-toolbar=\"-mbrBtnMove\">REGISTER</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#extFeatures2-0\" data-toolbar=\"-mbrBtnMove\">CHECK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extForm1-c\" data-toolbar=\"-mbrBtnMove\">REGISTER</a>"
               }
             ]
           },
@@ -196,7 +196,7 @@
           },
           "title": "WHAT WE CAN GIVE",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#extFeatures8-8\" data-toolbar=\"-mbrBtnMove\">READ PDF</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#extFeatures8-8\" data-toolbar=\"-mbrBtnMove\">READ PDF</a>",
           "_tags": [
             "Theme"
           ],
@@ -212,7 +212,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "showTexts": false,
-            "progressColor": "#d14841",
+            "progressColor": "#2969b0",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 3,
@@ -324,7 +324,7 @@
           "_anchor": "extProgressBar4-2",
           "_styles": {
             "path[stroke]": {
-              "stroke": "#d14841 !important"
+              "stroke": "#2969b0 !important"
             }
           }
         },
@@ -373,7 +373,7 @@
               "family": "et-line",
               "active": true,
               "size": 0,
-              "color": "#d14841"
+              "color": "#2969b0"
             }
           },
           "media2": {
@@ -384,7 +384,7 @@
               "family": "icon54-v3",
               "active": true,
               "size": 0,
-              "color": "#d14841"
+              "color": "#2969b0"
             }
           },
           "media3": {
@@ -405,7 +405,7 @@
               "family": "icon54-v2",
               "active": true,
               "size": 0,
-              "color": "#d14841"
+              "color": "#2969b0"
             }
           },
           "media5": {
@@ -416,7 +416,7 @@
               "family": "icon54-v4",
               "active": true,
               "size": 0,
-              "color": "#d14841"
+              "color": "#2969b0"
             }
           },
           "media6": {
@@ -515,10 +515,10 @@
           "list2": "",
           "list3": "<div><span style=\"font-size: 14px;\"></span></div>",
           "list4": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
           "media1": {
             "iconFont": {
               "active": true,
@@ -589,7 +589,7 @@
             "showFormTitle": true,
             "countdown": "2019/11/02",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader13-bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/webdesign-1649x1152.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -605,7 +605,7 @@
           "title2": "SEND REQUEST",
           "text": "OUR TEAM IS HAPPY TO ANOUNCE THAT - WE ARE PROVIDING INDIVIDUAL SYSTEM DESIGN JUST FOR YOU!<br>HURRY THE OFFER IS LIMITED FOR FIRST 200 CLIENTS",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
           "form": {
             "action": "rushhel@gmail.com",
             "alerts": {
