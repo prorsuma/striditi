@@ -572,14 +572,14 @@
             "iconsColor": "#333333",
             "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-danger\">CHECK</a>"
           },
-          "title": "GOT QUESTIONS?",
-          "title1": "Our contacts",
-          "title2": "We can visit you",
-          "subTitle1": "Main office&nbsp;",
-          "subTitle2": "Just ask for a meeting",
-          "text1": "Phone: +371 233934923&nbsp;<br> Email: info@striditi.com",
+          "title": "IT IS TIME TO",
+          "title1": "Order",
+          "title2": "Ask question",
+          "subTitle1": "Send a reques",
+          "subTitle2": "Contact us and we will answer",
+          "text1": "",
           "text2": "",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND REQUEST</a>",
           "media": {
             "image": {
               "active": true,
@@ -597,22 +597,24 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-form1",
-              "name": "linegraph",
+              "linkInNewWindow": false,
+              "name": "thumbs-up",
+              "family": "icon54-v4",
+              "active": true,
               "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "color": "#666666"
             }
           },
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-form1",
-              "name": "heart",
+              "linkInNewWindow": false,
+              "name": "attention",
+              "family": "icon54-v2",
+              "active": true,
               "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "color": "#666666"
             }
           },
           "form": {
@@ -676,7 +678,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CHOSE THE BEST OPTION FOR YOU",
-          "subtitle": "Pricing table with four columns and solid color background.",
+          "subtitle": "WE HAVE SPECIAL PROGRAMMS - PLEASE ASK",
           "title1": "STARTER",
           "title2": "COMPANY",
           "title3": "PREMIUM",
@@ -709,10 +711,10 @@
           "list2": "",
           "list3": "<div><span style=\"font-size: 14px;\"></span></div>",
           "list4": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST PRICE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST PRICE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST PRICE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST PRICE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">REQUEST</a>",
           "media1": {
             "iconFont": {
               "active": true,
