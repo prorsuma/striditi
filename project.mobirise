@@ -162,96 +162,6 @@
           "_anchor": "extSlider1-7"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "inverse": false,
-            "elements": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures2_bg.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1,
-            "showIcons": true,
-            "iconsColor": "#333333"
-          },
-          "title": "MEET THE STRIDITI",
-          "title1": "CONTROL",
-          "title2": "MONITOR",
-          "title3": "MONITOR",
-          "title4": "REPORT",
-          "text1": "- Tracking the working hours of employees, the management&nbsp;<br>- List of planned activities-on-site, indoors, additional premises<br>- Individual dashboard with display of all information \n<br>personal account<br>- General chat (of all mesagerul)and monitoring it online\n<br>- Management of leave and absenteeism <br>- Reporting payments for working hours monthly&nbsp;<br>- You can choose a landing page design and a platform design<br><br>",
-          "text2": "- Invoice generation from you personal cabinet<br>- Work with clients who are listed in the database-email, SMS\n<br>- Dashboard with categories with expiration date produi tracking<br>- Client-side resirvation system and api for all partners\n<br>- Ability to store suppliers or customers in an open/closed database\n<br><br>",
-          "text3": "Key differences from traditional builders: Minimalistic, extremely easy-to-use interface Mobile-friendliness, latest website blocks and techniques \"out-the-box\"  Free for commercial and non-profit use",
-          "text4": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
-          "media": {
-            "image": {
-              "active": true,
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/white-mac-1888x1100.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-extFeatures2",
-              "linkInNewWindow": false,
-              "name": "addvertise",
-              "family": "icon54",
-              "active": true,
-              "size": "50",
-              "color": "#666666"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "lecture-1",
-              "family": "icon54-v3",
-              "active": true,
-              "size": "50",
-              "color": "#666666"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "linegraph",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "heart",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures2",
-          "_anchor": "extFeatures2-0"
-        },
-        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#000000",
@@ -275,7 +185,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -310,7 +220,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -326,7 +236,7 @@
           "subtitle2": "Import database from your place<br>Work with old clients and bring them back<br>Track every client and countyour LTV<br>Provide marketing team will content and make clients - happy<br>See the analitycs and create a plan",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "FREE TIME",
-          "subtitle3": "Complete all your tasks faster<br>Create more free time for your needs<br>Live your life whitout daily routine<br>Let our software do it for you&nbsp;<br>See the analitycs and create a plan<br>",
+          "subtitle3": "Generate invoices in your account<br>Live your life whitout daily routine<br>Let our software do it for you book, alert and more<br>See the analitycs and create a plan<br><br>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you<br>the freedom to develop",
@@ -436,7 +346,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -545,112 +455,6 @@
           ],
           "_name": "extFeatures8",
           "_anchor": "extFeatures8-8"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showContacts": true,
-            "showSubtitle": true,
-            "showText": true,
-            "showIcons": true,
-            "showForm": true,
-            "inverse": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extForm1_bg.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1,
-            "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-danger\">CHECK</a>"
-          },
-          "title": "IT IS TIME TO",
-          "title1": "Order",
-          "title2": "Ask question",
-          "subTitle1": "Send a reques",
-          "subTitle2": "Contact us and we will answer",
-          "text1": "",
-          "text2": "",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND REQUEST</a>",
-          "media": {
-            "image": {
-              "active": true,
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/iphone-1000x640.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "size": 0,
-              "class": "mbr-iconfont mbr-iconfont-header2 ",
-              "color": "@primaryColor"
-            }
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "thumbs-up",
-              "family": "icon54-v4",
-              "active": true,
-              "size": 0,
-              "color": "#666666"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "attention",
-              "family": "icon54-v2",
-              "active": true,
-              "size": 0,
-              "color": "#666666"
-            }
-          },
-          "form": {
-            "action": "rushhel@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extForm1",
-          "_anchor": "extForm1-c"
         },
         {
           "_params": {
@@ -775,6 +579,112 @@
               "font-size": "23px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showContacts": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showIcons": true,
+            "showForm": true,
+            "inverse": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extForm1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1,
+            "iconsColor": "#333333",
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-danger\">CHECK</a>"
+          },
+          "title": "IT IS TIME TO",
+          "title1": "Order",
+          "title2": "Ask question",
+          "subTitle1": "Send a reques",
+          "subTitle2": "Contact us and we will answer",
+          "text1": "",
+          "text2": "",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND REQUEST</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/iphone-1000x640.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "color": "@primaryColor"
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "thumbs-up",
+              "family": "icon54-v4",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "attention",
+              "family": "icon54-v2",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "form": {
+            "action": "rushhel@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm1",
+          "_anchor": "extForm1-c"
         }
       ]
     }
