@@ -583,6 +583,9 @@
             },
             ".mbr-price-value": {
               "font-size": "23px"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#000000"
             }
           }
         },

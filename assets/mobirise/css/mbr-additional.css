@@ -836,6 +836,9 @@ section.form .container {
 #extPricingTable1-g .mbr-price-value {
   font-size: 23px;
 }
+#extPricingTable1-g .mbr-section__container .mbr-section-title {
+  color: #000000;
+}
 #extHeader13-j H4 {
   font-size: 30px;
 }
